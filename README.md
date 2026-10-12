@@ -30,7 +30,7 @@ Deprem öncesi hazırlık sürecini kolaylaştırmak, kullanıcıların temel af
 
 ## 🎓 Proje Hakkında
 
-Yalova Üniversitesi Meslek Yüksekokulu, Ön-Yüz Yazılım Geliştirme programı kapsamında JavaScript Uygulamaları dersi için geliştirilmektedir.
+Yalova Üniversitesi Meslek Yüksekokulu, Ön-Yüz Yazılım Geliştirme programı için geliştirilmektedir.
 
 ## 📌 Proje Durumu
 
